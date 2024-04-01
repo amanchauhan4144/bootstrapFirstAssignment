@@ -1,10 +1,10 @@
-#Introduction :-
+# Introduction :-
 Swimming institute is a responsive web page that I have created for laptop, mobile screens and tablet screen using html and css and bootstrap.
 
-#Overview :-
-##I Created this page using html, css (flexbox,transition) and various classes of bootstrap.
+# Overview :-
+## I Created this page using html, css (flexbox,transition) and various classes of bootstrap.
 
-##I  have also used components of bootstrap like modal which opens after clicking on home icon on navbar.
+## I  have also used components of bootstrap like modal which opens after clicking on home icon on navbar.
 1- The first container contains the navigation bar and the basic information of the swimming institute.
 
 2- Second container is about some more features of the swimming institute.
@@ -20,13 +20,13 @@ Swimming institute is a responsive web page that I have created for laptop, mobi
 Overall i have used various bootstrap classes for alignment , and typography classes for styling purposes.
 
 
-#How to run->
+# How to run->
 Clone this repositery into your local machine
 run the following command on your terminal(inside that folder where you want to clone the repo)
 
 git clone https://github.com/2000RahulJoshi/Interior-Design.git
 
-#Customize the content
+# Customize the content
 1- Edit the index.html file to modify the content of the landing page.
 
 2- Update the styles in the style.css file to customize the look of the lalnding page
