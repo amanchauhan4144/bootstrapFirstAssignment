@@ -6,12 +6,12 @@ Swimming institute is a responsive web page that I have created for laptop, mobi
  I  have also used components of bootstrap like modal which opens after clicking on home icon on navbar.
  
 # Technologies Used :-
-*HTML5: For structuring the content of web pages.
+### HTML5: For structuring the content of web pages.
 
-*CSS3: For styling and layout design.
-*Bootstrap 5: For responsive design, pre-built components, and utility classes.
-*JavaScript (Bundler): For interactive elements and enhanced user experience.
-*Popper Plugin for Tooltip.
+### CSS3: For styling and layout design.
+### Bootstrap 5: For responsive design, pre-built components, and utility classes.
+### JavaScript (Bundler): For interactive elements and enhanced user experience.
+### Popper Plugin for Tooltip.
 
 # Description :-
 1- The first container contains the navigation bar and the basic information of the swimming institute.
