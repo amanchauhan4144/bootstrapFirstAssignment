@@ -45,7 +45,8 @@
     .topContainer {
         margin-top: 7%;
     }
-
+    .swimRank {
+    width: 100% !important;}
     .modalOpener {
         top: 54%;
         left: 28%;
