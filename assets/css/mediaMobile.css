@@ -11,6 +11,12 @@
     .contactsLink {
         margin-bottom: 1rem;
     }
+     .customerCard,.schoolRank,.cardIndividual,.footerCard,.eventsTextCard,.swimLessons,.schoolRank{
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    }
+    .schoolTextPara{
+        width: 76%;
+    }
 
     .navBarItems li {
         padding: 2.3% 0;
