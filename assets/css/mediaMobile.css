@@ -17,6 +17,10 @@
     .schoolTextPara{
         width: 76%;
     }
+    .emailText{
+        padding-bottom: 2rem;
+    margin-top: 2rem;
+    }
     .frontThree{
         margin-top: 7rem;
     }
