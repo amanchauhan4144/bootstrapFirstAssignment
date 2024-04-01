@@ -41,6 +41,10 @@
     .topContainerContent {
         background-image: none;
     }
+    .schoolTextContentHeading{
+        width:79%;
+        
+    }
 
     .topContainer {
         margin-top: 7%;
