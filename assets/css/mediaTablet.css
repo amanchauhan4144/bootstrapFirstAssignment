@@ -10,7 +10,9 @@
     .cardHeading {
         font-size: 2rem;
     }
-
+    .swimmerFemale{
+        height:24rem;
+    }
     .locationHeading,
     .levelHeading,
     .registerHeading,
