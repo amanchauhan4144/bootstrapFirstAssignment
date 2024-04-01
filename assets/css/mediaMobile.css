@@ -7,7 +7,7 @@
     .homeitem {
         margin-top: 2rem;
     }
-    .schoolRankContainer{ margin-top:0rem}
+    .schoolRankContainer{ margin-top:0rem !important;}
     .contactsLink {
         margin-bottom: 1rem;
     }
