@@ -17,6 +17,9 @@
     .schoolTextPara{
         width: 76%;
     }
+    .lightgreyCard{
+        margin-bottom: 3rem;
+    }
 
     .navBarItems li {
         padding: 2.3% 0;
