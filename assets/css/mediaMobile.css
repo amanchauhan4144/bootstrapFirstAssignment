@@ -62,6 +62,9 @@
         height: 48rem;
         margin-top: 0%;
     }
+    .reviewSection{
+        display:none;
+    }
 
     .desktopcardimg {
         display: none;
