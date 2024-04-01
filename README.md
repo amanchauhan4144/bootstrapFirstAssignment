@@ -38,7 +38,7 @@ Overall i have used various bootstrap classes for alignment , and typography cla
 Clone this repositery into your local machine
 run the following command on your terminal(inside that folder where you want to clone the repo)
 
-git clone https://github.com/2000RahulJoshi/Interior-Design.git
+git clone https://github.com/amanchauhan4144/bootstrapFirstAssignment
 
 # Customize the content
 1- Edit the index.html file to modify the content of the landing page.
