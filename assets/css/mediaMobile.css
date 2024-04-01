@@ -27,7 +27,9 @@
     .lightgreyCard{
         margin-bottom: 3rem;
     }
-
+    .schoolRankContentPara{
+        padding-top:0rem !important;
+    }
     .navBarItems li {
         padding: 2.3% 0;
     }
