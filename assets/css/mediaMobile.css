@@ -77,6 +77,8 @@
     .schoolTextContentPara {
         text-align: justify;
         font-size: 1.1rem;
+        margin-top:0rem;
+        padding-top:0rem;
     }
 
     .schoolTextContentHeading {
