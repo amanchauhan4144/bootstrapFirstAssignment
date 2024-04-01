@@ -25,6 +25,9 @@
     .topContainerContent {
         margin-top: 6%;
     }
+      .knowmorebuttonContainer{
+        padding-right: 8rem;
+    }
 
     .cardpara {
         width: 100%;
